@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shahd Makhmer 👋
 
-<!--
-**shahdmekhamer/shahdmekhamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Node.js - Express
 
-Here are some ideas to get you started:
+I'm learning Backend and building projects.
+Exploring different tools and architectures to learn the right way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Language & Runtime:**
+- JavaScript
+- Node.js - Event Loop, Async / Await
+
+**Backend Framework:**
+- Express.js
+- Middleware
+- REST APIs
+
+**Databases:**
+- SQL - PostgreSQL (SQL), MySQL (SQL)
+- NoSQL - MongoDB (nosql)
+
+**Auth & Security:**
+- Authentication (JWT)
+- Authorization (Roles & Permissions)
+
+**Tools:**
+- Git / GitHub
+- Postman
+
+### 🚀 What I'm Learning Now
+- Building Full Projects with Express
+- Clean Architecture
+- Database Design - SQL vs NoSQL
+- Auth - Authentication & Authorization
+
+### 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/shahd-mekhmer
