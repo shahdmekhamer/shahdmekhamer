@@ -18,7 +18,7 @@ Exploring different tools and architectures to learn the right way.
 
 **Databases:**
 - SQL - PostgreSQL (SQL), MySQL (SQL)
-- NoSQL - MongoDB (nosql)
+- NoSQL - MongoDB  (MQL / JavaScript)
 
 **Auth & Security:**
 - Authentication (JWT)
